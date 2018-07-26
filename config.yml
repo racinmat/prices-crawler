@@ -1,7 +1,45 @@
 pages:
   czc:
+#   tohle je plánovaná pc sestava
     Intel Core i7-7800X: https://www.czc.cz/intel-core-i7-7800x/217105/produkt
     ASUS GeForce ROG-STRIX-GTX1080TI-11G-GAMING: https://www.czc.cz/asus-geforce-rog-strix-gtx1080ti-11g-gaming-11gb-gddr5x/210368/produkt
+    ASUS PRIME X299-A - Intel X299: https://www.czc.cz/asus-prime-x299-a-intel-x299/217084/produkt
+    ADATA XPG GAMMIX D10 32GB (2x16GB) DDR4 3000: https://www.czc.cz/adata-xpg-gammix-d10-32gb-2x16gb-ddr4-3000-cervena/224077/produkt
+    Be quiet! Dark Rock PRO 4: https://www.czc.cz/be-quiet-dark-rock-pro-4/234415/produkt
+    Samsung SSD 970 EVO (M.2) - 500GB: https://www.czc.cz/samsung-ssd-970-evo-m-2-500gb/236368/produkt
+    Seagate BarraCuda PRO - 4TB: https://www.czc.cz/seagate-barracuda-pro-4tb/217195/produkt
+    Seasonic Focus Plus Gold - 850W: https://www.czc.cz/seasonic-focus-plus-gold-850w/220745/produkt
+    Fractal Design Meshify C Blackout TG: https://www.czc.cz/fractal-design-meshify-c-blackout-tg-sklo-cerna/220308b4/produkt
+    Arctic Fan F12: https://www.czc.cz/arctic-fan-f12_2/70139/produkt
+    Samsung C27HG70: https://www.czc.cz/samsung-c27hg70-led-monitor-27/216838/produkt
+#   tohle jsou alternativy
+    AMD RYZEN Threadripper 1900X: https://www.czc.cz/amd-ryzen-threadripper-1900x/221634/produkt
+    AMD RYZEN Threadripper 1920X: https://www.czc.cz/amd-ryzen-threadripper-1920x/219536/produkt
+    AMD RYZEN Threadripper 1950X: https://www.czc.cz/amd-ryzen-threadripper-1950x/219538/produkt
+    Intel Core i7-7820X: https://www.czc.cz/intel-core-i7-7820x/217106/produkt
+    Intel Core i9-7900X: https://www.czc.cz/intel-core-i9-7900x/217107/produkt
+    Intel Core i9-7920X: https://www.czc.cz/intel-core-i9-7920x/222073/produkt
+    AMD Ryzen 7 2700: https://www.czc.cz/amd-ryzen-7-2700/233927/produkt
+    AMD Ryzen 7 2700X: https://www.czc.cz/amd-ryzen-7-2700x/233928/produkt
+
   alza:
     Intel Core i7-7800X: https://www.alza.cz/intel-core-i7-7800x-d4977463.htm
     ASUS GeForce ROG-STRIX-GTX1080TI-11G-GAMING: https://www.alza.cz/asus-rog-strix-gaming-geforce-gtx1080ti-11gb-d4828446.htm
+    ASUS PRIME X299-A - Intel X299: https://www.alza.cz/asus-prime-x299-a-d5007825.htm
+    ADATA XPG GAMMIX D10 32GB (2x16GB) DDR4 3000: https://www.alza.cz/adata-32gb-ddr4-3000mhz-cl16-xpg-gammix-d10-cervena-d5118748.htm
+    Be quiet! Dark Rock PRO 4: https://www.alza.cz/be-quiet-dark-rock-pro-4-d5340955.htm
+    Samsung SSD 970 EVO (M.2) - 500GB: https://www.alza.cz/samsung-970-evo-500gb-d5319054.htm
+    Seagate BarraCuda PRO - 4TB: https://www.alza.cz/seagate-barracuda-pro-4tb-d5147619.htm
+    Seasonic Focus Plus Gold - 850W: https://www.alza.cz/seasonic-focus-plus-850-gold-d5041957.htm
+    Fractal Design Meshify C Blackout TG: https://www.alza.cz/fractal-design-define-meshify-c-blackout-tg-d5090782.htm
+    Arctic Fan F12: https://www.alza.cz/arctic-f12-120mm-d349024.htm
+    Samsung C27HG70: https://www.alza.cz/27-samsung-c27hg70-d5088174.htm
+
+    AMD RYZEN Threadripper 1900X: https://www.alza.cz/amd-ryzen-threadripper-1900x-d5100403.htm
+    AMD RYZEN Threadripper 1920X: https://www.alza.cz/amd-ryzen-threadripper-1920x-d5073885.htm
+    AMD RYZEN Threadripper 1950X: https://www.alza.cz/amd-ryzen-threadripper-1950x-d5073886.htm
+    Intel Core i7-7820X: https://www.alza.cz/intel-core-i7-7820x-d4977502.htm
+    Intel Core i9-7900X: https://www.alza.cz/intel-core-i9-7900x-d4977501.htm
+    Intel Core i9-7920X: https://www.alza.cz/intel-core-i9-7920x-d5069924.htm
+    AMD Ryzen 7 2700:
+    AMD Ryzen 7 2700X:
