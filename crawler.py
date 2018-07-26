@@ -16,9 +16,9 @@ class Crawler:
             price = self.get_price(page)
             db.Database.insert_price(product, price, self.name, datetime.datetime.now())
 
+    @abc.abstractmethod
     def get_price(self, page):
-        content = html.fromstring(requests.get(page).content)
-        return self.price_text_to_int(content.cssselect(self.price_selector())[0].text)
+        pass
 
     @abc.abstractmethod
     def price_text_to_int(self, price):
