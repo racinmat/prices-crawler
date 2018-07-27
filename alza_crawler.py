@@ -19,7 +19,7 @@ class AlzaCrawler(Crawler):
         return self.price_text_to_int(content.cssselect(self.price_selector())[0].text)
 
     def price_text_to_int(self, price):
-        int(''.join(re.findall('\d+', price)))
+        return int(''.join(re.findall('\d+', price)))
 
     def price_selector(self):
         return '#prices span.price_withVat'
