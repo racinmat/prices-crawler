@@ -13,8 +13,12 @@ class Crawler:
 
     def crawl_site(self):
         for product, page in self.products.items():
-            price = self.get_price(page)
-            db.Database.insert_price(product, price, self.name, datetime.datetime.now())
+            try:
+                price = self.get_price(page)
+                db.Database.insert_price(product, price, self.name, datetime.datetime.now())
+            except:
+                db.Database.insert_price(product, None, self.name, datetime.datetime.now())
+                print('Product {} on page {} does not exist, skipping'.format(product, page))
 
     @abc.abstractmethod
     def get_price(self, page):
