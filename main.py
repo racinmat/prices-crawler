@@ -12,9 +12,15 @@ def crawl():
     print('gathering done, waiting')
 
 
+def do_stuff():
+    print('done stuff, waiting')
+
+
 def crawl_repeated():
     crawl()
     threading.Timer(60 * 60 * 12, crawl_repeated).start()  # twice per day
+    # do_stuff()
+    # threading.Timer(5, crawl_repeated).start()  # twice per day
 
 
 if __name__ == '__main__':
